@@ -1,1 +1,7 @@
 
+class Exemple
+{
+    static void main(String[ ] args)
+   { // projet maven Hello World
+    }
+}
